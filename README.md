@@ -8,3 +8,5 @@ Fully kernel health based Glow ESP for CS:GO
 3. open CS:GO and type "sc start GOTT" in admin cmd
 
 https://youtu.be/D0fX8D94Fqc
+
+# Education Purpose ONLY!
